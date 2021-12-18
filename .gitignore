@@ -1,0 +1,5 @@
+logs/
+logs_test/
+models/
+d4rl_dataset.npz
+d4rl_dataset_large.npz
